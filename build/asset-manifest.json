@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/site/static/css/main.6412c00d.css",
-    "main.js": "/site/static/js/main.73c59e2d.js",
-    "index.html": "/site/index.html",
-    "main.6412c00d.css.map": "/site/static/css/main.6412c00d.css.map",
-    "main.73c59e2d.js.map": "/site/static/js/main.73c59e2d.js.map"
+    "main.css": "/wellnessed.org/static/css/main.6412c00d.css",
+    "main.js": "/wellnessed.org/static/js/main.73c59e2d.js",
+    "index.html": "/wellnessed.org/index.html",
+    "main.6412c00d.css.map": "/wellnessed.org/static/css/main.6412c00d.css.map",
+    "main.73c59e2d.js.map": "/wellnessed.org/static/js/main.73c59e2d.js.map"
   },
   "entrypoints": [
     "static/css/main.6412c00d.css",
