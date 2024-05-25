@@ -1,10 +1,10 @@
 {
   "Header": {
     "title": "Seize the Means of Education",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "paragraph": "Promoting health literacy, providing mentoring, and fostering educational development in regional and remote areas."
   },
   "About": {
-    "paragraph": "Serag and Soloman Saleh are a pair of junior doctors from Sydney who . WellnessEd is the result of their combined love for teaching alongside a passion for global and regional health.",
+    "paragraph": "Serag and Soloman Saleh are junior doctors from Sydney who do stuff. Wellness ED is the result of their love for teaching alongside a passion for global and regional health.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -132,23 +132,13 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Soloman Saleh",
+      "job": "Founder, co-founder, CEO, CFO, CTO"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Serag Saleh",
+      "job": "Igor"
     }
   ],
   "Contact": {
@@ -159,7 +149,7 @@
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
-  "Features": [
+  "Mission": [
     {
       "icon": "fa fa-comments-o",
       "title": "Lorem ipsum",
