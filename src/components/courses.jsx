@@ -5,10 +5,10 @@ export const Courses = (props) => {
     <div id="courses" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Our Courses</h2>
+          <h2>Courses</h2>
           <p>
-            We run all sorts of courses on health literacy, health education,
-             and other fun stuff.
+            We currently offer six courses on health literacy, self-care,
+             and healthy living. Feel free to contact us with suggestions for specific courses!
           </p>
         </div>
         <div className="row">

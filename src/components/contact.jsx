@@ -24,10 +24,10 @@ export const Contact = (props) => {
     {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
     
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm("service_ve1ukq8", "template_w18kvbu", e.target, "Vn_zMZ2q_0Sxs1pM-")
       .then(
         (result) => {
-          console.log(result.text);
+          console.log("result", result.text);
           clearState();
         },
         (error) => {
@@ -101,21 +101,21 @@ export const Contact = (props) => {
           <div className="col-md-3 col-md-offset-1 contact-info">
             <div className="contact-item">
               <h3>Contact Info</h3>
-              <p>
+              {/*<p>
                 <span>
                   <i className="fa fa-map-marker"></i> Address
                 </span>
                 {props.data ? props.data.address : "loading"}
-              </p>
+              </p>*/}
             </div>
-            <div className="contact-item">
+            {/*<div className="contact-item">
               <p>
                 <span>
                   <i className="fa fa-phone"></i> Phone
                 </span>{" "}
                 {props.data ? props.data.phone : "loading"}
               </p>
-            </div>
+            </div>*/}
             <div className="contact-item">
               <p>
                 <span>
@@ -125,7 +125,7 @@ export const Contact = (props) => {
               </p>
             </div>
           </div>
-          <div className="col-md-12">
+          {/*<div className="col-md-12">
             <div className="row">
               <div className="social">
                 <ul>
@@ -147,13 +147,13 @@ export const Contact = (props) => {
                 </ul>
               </div>
             </div>
-          </div>
+          </div>*/}
         </div>
       </div>
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
+            Website based on React Land Page Template &copy; 2023 Issaaf Kattan. Design by{" "}
             <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
             </a>

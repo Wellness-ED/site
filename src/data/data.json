@@ -1,21 +1,19 @@
 {
   "Header": {
-    "title": "Seize the Means of Education",
+    "title": "Preventable hospitalisations are up to 3× higher in remote areas of Australia",
     "paragraph": "Promoting health literacy, providing mentoring, and fostering educational development in regional and remote areas."
   },
   "About": {
-    "paragraph": "Serag and Soloman Saleh are junior doctors from Sydney who do stuff. Wellness ED is the result of their love for teaching alongside a passion for global and regional health.",
+    "paragraph": "WellnessED is a not-for-profit group dedicated to improving health literacy and outcomes across Australia. We take a 'ground-up' approach to healthcare; with health education, personal mentoring, and developing sustainable educational structures. Our goal is to dispell common health myths and replace 'word-of-mouth' with thoroughly validated and well-researched knowledge.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Provide a wide range of courses on healthy living",
+      "One-on-one personal and professional mentoring",
+      "Online courses available to reach remote schools"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Evidence-based and well-researched ",
+      "Tailored content and delivery for all ages K-12",
+      "Not for profit. Completely free"
     ]
   },
   "Gallery": [
@@ -67,34 +65,34 @@
   ],
   "Courses": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Nutrition and Exercise",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
       "icon": "fa fa-futbol-o",
+      "name": "Nutrition and Exercise",
+      "text": "?symbol."
+    },
+    {
+      "icon": "fa fa-bed",
       "name": "Stress and Healthy Mental Habits",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Head with exclamation mark or thundercloud."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-glass",
       "name": "Substance Use",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Cigarette."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-heart",
       "name": "Reproductive Health and Safe Sex",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "?symbol."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-medkit",
       "name": "Hygeine, Skincare, and Dental Health",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Shower or bath."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-comments",
       "name": "Critical Evaluation of Healthcare in Media",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "?symbol."
     }
   ],
   "Testimonials": [
@@ -133,42 +131,42 @@
     {
       "img": "img/team/01.jpg",
       "name": "Soloman Saleh",
-      "job": "Founder, co-founder, CEO, CFO, CTO"
+      "job": "Co-founder"
     },
     {
       "img": "img/team/02.jpg",
       "name": "Serag Saleh",
-      "job": "Igor"
+      "job": "Co-founder"
     }
   ],
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "email": "contact@wellnessed.org",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Mission": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-book",
+      "title": "Improve Regional Health and Health Literacy",
+      "text": " "
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-graduation-cap",
+      "title": "Foster Regional Professional Development",
+      "text": " "
+    },
+    {
+      "icon": "fa fa-unlock",
+      "title": "Demystify Healthy Living",
+      "text": " "
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Establish Sustainable Education Programs",
+      "text": " "
     }
   ]
 }
