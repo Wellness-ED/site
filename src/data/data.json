@@ -67,32 +67,32 @@
     {
       "icon": "fa fa-futbol-o",
       "name": "Nutrition and Exercise",
-      "text": "?symbol."
+      "text": " "
     },
     {
       "icon": "fa fa-bed",
       "name": "Stress and Healthy Mental Habits",
-      "text": "Head with exclamation mark or thundercloud."
+      "text": " "
     },
     {
       "icon": "fa fa-glass",
       "name": "Substance Use",
-      "text": "Cigarette."
+      "text": " "
     },
     {
       "icon": "fa fa-heart",
       "name": "Reproductive Health and Safe Sex",
-      "text": "?symbol."
+      "text": " "
     },
     {
       "icon": "fa fa-medkit",
       "name": "Hygeine, Skincare, and Dental Health",
-      "text": "Shower or bath."
+      "text": " "
     },
     {
       "icon": "fa fa-comments",
       "name": "Critical Evaluation of Healthcare in Media",
-      "text": "?symbol."
+      "text": " "
     }
   ],
   "Testimonials": [
@@ -129,14 +129,14 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
+      "img": "img/team/soloman.jpg",
       "name": "Soloman Saleh",
-      "job": "Co-founder"
+      "job": "Co-founder, educator, mentor"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/serag.jpg",
       "name": "Serag Saleh",
-      "job": "Co-founder"
+      "job": "Co-founder, educator, mentor"
     }
   ],
   "Contact": {
