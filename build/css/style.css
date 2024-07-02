@@ -208,7 +208,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background: url(../img/background2.jpg) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -228,6 +228,7 @@ a:focus,
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 10px;
+  text-align: right;
 }
 .intro h1 span {
   font-weight: 800;
